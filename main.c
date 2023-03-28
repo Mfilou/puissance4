@@ -11,7 +11,8 @@ int main(){
     char recom;
 
     do{
-            jouer_aujeu();
+            jouer_aujeux();
+            //kefil est bete
 
      do
         { fflush(stdin);
