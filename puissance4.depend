@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1678855999 source:c:\users\22962\documents\puissance4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonction.h"
+
+1678830361 c:\users\22962\documents\puissance4\fonction.h
+
+1678862259 source:c:\users\22962\documents\puissance4\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"fonction.h"
+
+1677500014 source:c:\users\22962\documents\2ème année\algorithmique\exercices perso\exercice en c\copie de main.c.a.merv.c
+	<stdio.h>
+	<stdlib.h>
+
+1678950108 source:c:\users\luthor informatique\desktop\puissance\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"fonction.h"
+
+1678950108 c:\users\luthor informatique\desktop\puissance\fonction.h
+
+1678950108 source:c:\users\luthor informatique\desktop\puissance\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonction.h"
+
