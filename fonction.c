@@ -412,7 +412,7 @@ grillepuissance4(POSITION_X,POSITION_Y,28,12);
         } while(jouer<42);
 
 
-
+// bizarre git
 return 0 ;
 }
 
