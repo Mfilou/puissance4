@@ -7,7 +7,7 @@
 
 
 
-int main(){
+//int main(){
     char recom;
 
     do{
@@ -22,7 +22,7 @@ int main(){
         if(recom=='o')
             system("cls");
 
-        printf("\n");
+       
  }while (recom=='o');
 
 
