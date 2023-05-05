@@ -23,6 +23,7 @@ int main(){
             system("cls");
 
         printf("\n");
+        printf("\n");
  }while (recom=='o');
 
 
