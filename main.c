@@ -37,7 +37,7 @@ int main(){
 
 
     printf("\n\n\n\n\n\n\n\n\n\n\n\n");
-    printf("Jo\n");
+    printf("Jo");
 
 
     return 0;
