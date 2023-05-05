@@ -24,6 +24,9 @@ int main(){
 
         printf("\n");
         printf("\n");
+        printf("\n");
+        printf("\n");
+        printf("\n");
  }while (recom=='o');
 
 
